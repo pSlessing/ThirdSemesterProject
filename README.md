@@ -1,3 +1,5 @@
+# IMPORTANT: This is a copy of the real repository, with secrets and Docker files removed
+
 # Project Title: Work session registration system
 
 This project helps our case company with the time/shift registration of its employees. It serves as a "punch-clock" application. 
@@ -14,9 +16,6 @@ Project Link: [https://github.com/cs-24-sw-03-12/project](https://github.com/cs-
 - The program is coded in Java using the Springboot framework, as well as JUnit5  
 - A list of all dependencies can be found in the /pom.xml file 
 - /Dockerfile is used to build a docker image to ensure platform independence
-
-## How to use it:
-- Sign in with your account credentials to "https://syncr.dev"
 
 ## Project structure
 - `/main`
